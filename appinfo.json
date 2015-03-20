@@ -3,8 +3,8 @@
   "shortName": "Fireflies",
   "longName": "Fireflies",
   "companyName": "Little Hiccup",
-  "versionCode": 4,
-  "versionLabel": "2.2",
+  "versionCode": 5,
+  "versionLabel": "3.0",
   "watchapp": {
     "watchface": true
   },
