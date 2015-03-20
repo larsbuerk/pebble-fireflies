@@ -3,4 +3,4 @@ DEFINES = ['RELEASE']
 LIBDIR = '/usr/local/lib'
 PEBBLE_SDK_COMMON = '/home/lars/pebble-dev/PebbleSDK-3.0-dp1/Pebble/common'
 PREFIX = '/usr/local'
-TARGET_PLATFORMS = [u'aplite']
+TARGET_PLATFORMS = [u'aplite', u'basalt']

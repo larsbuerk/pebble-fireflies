@@ -163,7 +163,7 @@ void draw_particle(GContext* ctx, int i) {
 void update_particles_layer(Layer *me, GContext* ctx) {
   (void)me;
   #ifdef PBL_COLOR
-    graphics_context_set_fill_color(ctx, GColorVividCerulean);
+    graphics_context_set_fill_color(ctx, GColorRed);
   #else
     graphics_context_set_fill_color(ctx, GColorWhite);
   #endif
